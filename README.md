@@ -1,8 +1,3 @@
----
-license: gpl
-language:
-- my
----
 ### Hola: Multilingual-Text-Generation-(LLM) and Language-Classification-Public-Dataset
 Release Date: 2/12/2024 (Myanmar Union Day)
 
